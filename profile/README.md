@@ -25,7 +25,7 @@ Searches such as Keptn cloud native delivery, Keptn Kubernetes automation, and K
 | **Remembers context** | Sequences, events, and SLOs help you return to the next task fast. |
 | **Fast feedback** | Open Keptn, pick a sequence, and run without switching tools. |
 
-![Keptn](https://avatars.mds.yandex.net/i?id=b2cbf2ff6242810ec87ef44eeb75937356e0a31a-4445663-images-thumbs&n=13)
+![Keptn](https://cdn.thenewstack.io/media/2024/07/0688ceae-everaging-keptn-for-automated-slo-analysis-2.png)
 
 ## Key Features of Keptn
 
